@@ -1,6 +1,6 @@
 # Love Gameboy Template
 
-This is a simple template meant to be used as a starting point for games in the style of the original gameboy.
+This is a simple [love](https://love2d.org/) template meant to be used as a starting point for games in the style of the original gameboy.
 
  - Resolution: 160 x 144
  - Default Scaling: 4x
